@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "name": "desafio-09",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "lite-server running"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
